@@ -30,7 +30,6 @@ cargo run --bin fp -- "**/*.txt" "\d+"
 cargo run --bin imp -- "**/*.txt" "\d+"
 
 cargo run --bin fp -- "**/*.txt" "\d+"
-
 ```
 
 <p align = "center">
